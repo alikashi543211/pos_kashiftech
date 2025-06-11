@@ -1,0 +1,218 @@
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:45:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:51:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:192:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:317:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:457:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:563:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:671:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:803:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:934:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1068:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1202:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1335:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1455:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1576:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1702:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1834:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:1967:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2099:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2195:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2297:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2402:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2501:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2618:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2746:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:2877:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3004:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3135:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3268:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3399:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3530:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3661:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3793:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:3923:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4056:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4188:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4321:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4453:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4585:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4717:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4848:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:4980:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5113:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5244:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5376:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5502:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5635:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5768:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:5901:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6031:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6163:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6295:INSERT INTO `audits` (`id`, `user_type`, `user_id`, `event`, `auditable_type`, `auditable_id`, `old_values`, `new_values`, `url`, `ip_address`, `user_agent`, `tags`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6412:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6424:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6430:INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6455:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6475:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6481:INSERT INTO `pos_builder_settings` (`id`, `job_position_id`, `sort_number`, `key`, `value`, `is_attachment`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6513:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6519:INSERT INTO `pos_chatgpt_sections` (`id`, `job_position_id`, `sort_number`, `content_title`, `chatgpt_content`, `content_type`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6542:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6548:INSERT INTO `pos_document_sections` (`id`, `job_position_id`, `sort_number`, `document_title`, `document_path`, `document_type`, `note`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6571:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6577:INSERT INTO `pos_download_histories` (`id`, `job_position_id`, `sort_number`, `pos_name`, `pos_path`, `pos_for`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6621:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6627:INSERT INTO `pos_education_sections` (`id`, `job_position_id`, `sort_number`, `degree_name`, `institute_name`, `country`, `city`, `start_date`, `end_date`, `grades`, `description`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6654:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6660:INSERT INTO `pos_experience_sections` (`id`, `job_position_id`, `sort_number`, `company_logo`, `country`, `city`, `company_name`, `designation_name`, `start_date`, `end_date`, `description`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6681:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6687:INSERT INTO `pos_experience_section_descriptions` (`id`, `pos_experience_section_id`, `type`, `sort_number`, `description`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6723:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6745:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6751:INSERT INTO `pos_github_sections` (`id`, `job_position_id`, `sort_number`, `github_title`, `github_repo_url`, `github_repo_type`, `github_type`, `github_description`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6775:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6781:INSERT INTO `pos_google_drive_sections` (`id`, `job_position_id`, `google_drive_type`, `sort_number`, `google_drive_title`, `google_drive_link`, `google_drive_description`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6834:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6840:INSERT INTO `pos_header_sections` (`id`, `job_position_id`, `gender`, `first_name`, `last_name`, `date_of_birth`, `date_of_joining`, `position_display_title`, `phone_number`, `email`, `location`, `city`, `country`, `display_picture`, `heading`, `short_summary`, `linked_in_link`, `github_link`, `portfolio_website`, `facebook_link`, `is_active`, `full_name`, `job_first_name`, `job_last_name`, `job_full_name`, `job_position_display_title`, `job_heading`, `job_email`, `job_phone_number`, `job_country`, `job_city`, `job_location`, `job_linked_in_link`, `job_github_link`, `job_portfolio_website`, `job_short_summary`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6859:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6883:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6889:INSERT INTO `pos_image_gallery_sections` (`id`, `job_position_id`, `sort_number`, `image_path`, `image_title`, `image_type`, `image_uploaded_from`, `category`, `sub_category`, `project_name`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6957:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6963:INSERT INTO `pos_interest_sections` (`id`, `job_position_id`, `sort_number`, `interest`, `is_active`, `interest_icon`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6982:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:6988:INSERT INTO `pos_job_positions` (`id`, `title`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7008:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7014:INSERT INTO `pos_language_sections` (`id`, `job_position_id`, `sort_number`, `language_title`, `language_rating`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7036:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7042:INSERT INTO `pos_live_link_sections` (`id`, `job_position_id`, `sort_number`, `link_name`, `live_link`, `link_thumbnail`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7068:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7094:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7100:INSERT INTO `pos_project_sections` (`id`, `job_position_id`, `pos_experience_section_id`, `sort_number`, `project_name`, `country`, `city`, `client_name`, `start_date`, `end_date`, `project_thumbnail`, `description`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7125:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7131:INSERT INTO `pos_project_section_descriptions` (`id`, `pos_project_section_id`, `type`, `sort_number`, `description`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7168:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7174:INSERT INTO `pos_project_section_images` (`id`, `pos_project_section_id`, `sort_number`, `image_title`, `image_path`, `is_thumbnail`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7211:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7231:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7237:INSERT INTO `pos_skill_sections` (`id`, `job_position_id`, `sort_number`, `skill_icon`, `skill_title`, `skill_rating`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7273:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7279:INSERT INTO `pos_social_media_sections` (`id`, `job_position_id`, `sort_number`, `social_media_title`, `social_media_link`, `social_media_type`, `social_media_description`, `social_media_icon_class`, `is_active`, `created_by`, `created_at`, `updated_at`, `deleted_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7297:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7303:INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7322:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7328:INSERT INTO `tbl_admin` (`id`, `user_name`, `is_active`, `remember_token`, `password`, `deleted_at`, `created_at`, `updated_at`, `theme_color`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7348:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7354:INSERT INTO `tbl_admin_user_roles` (`ID`, `admin_ID`, `role_ID`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7379:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7385:INSERT INTO `tbl_categories` (`id`, `added_by`, `date_added`, `last_modified_by`, `last_modified_date`, `category_icon`, `deleted_at`, `status`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7423:) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7429:INSERT INTO `tbl_categories_lang` (`id`, `category_id`, `lang_id`, `parent_id`, `category_name`, `meta_title`, `meta_keywords`, `meta_description`, `page_url`, `canonical_tag`, `main_picture`, `main_picture_alt_tag`, `key_information`, `sort_order`, `full_description`, `featured`, `top_navigation`, `footer_navigation`, `left_navigation`, `right_navigation`, `added_by`, `date_added`, `last_modified_by`, `last_modified_time`, `status`, `deleted_at`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7446:) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7452:INSERT INTO `tbl_cities` (`city_id`, `city_name`, `country_id`, `state_id`, `added_by`, `date_added`, `status`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7474:) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7480:INSERT INTO `tbl_countries` (`country_id`, `name`, `date_added`, `added_by`, `status`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7498:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7504:INSERT INTO `tbl_departments` (`id`, `department_name`, `department_status`, `created_by`, `deleted_by`, `deleted_at`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7522:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7528:INSERT INTO `tbl_designations` (`id`, `designation_name`, `designation_status`, `created_by`, `deleted_by`, `deleted_at`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7572:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7578:INSERT INTO `tbl_employees` (`ID`, `user_name`, `first_name`, `last_name`, `email_address`, `mobile_number`, `department_id`, `designation_id`, `report_to`, `deletedBy`, `city_id`, `country`, `isDeleted`, `custom_photo`, `deleted_at`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7608:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ROW_FORMAT=DYNAMIC;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7614:INSERT INTO `tbl_languages` (`id`, `name`, `lang`, `native`, `iso_code`, `short_code`, `is_rtl`, `is_default`, `created_by`, `deleted_at`, `created_at`, `updated_at`, `icon`, `status`, `image`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7634:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7640:INSERT INTO `tbl_modules` (`ID`, `module_category_ID`, `module_name`, `route`, `show_in_menu`, `css_class`, `display_order`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7813:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7819:INSERT INTO `tbl_module_categories` (`ID`, `category_name`, `css_class`, `display_order`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7840:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7846:INSERT INTO `tbl_roles` (`ID`, `role_name`, `display_order`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7862:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:7868:INSERT INTO `tbl_role_privileges` (`ID`, `role_ID`, `module_ID`, `created_at`, `updated_at`) VALUES
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8096:) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8105:ALTER TABLE `audits`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8113:ALTER TABLE `cache`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8119:ALTER TABLE `migrations`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8125:ALTER TABLE `password_reset_tokens`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8131:ALTER TABLE `pos_builder_settings`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8137:ALTER TABLE `pos_chatgpt_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8143:ALTER TABLE `pos_document_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8149:ALTER TABLE `pos_download_histories`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8155:ALTER TABLE `pos_education_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8161:ALTER TABLE `pos_experience_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8167:ALTER TABLE `pos_experience_section_descriptions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8173:ALTER TABLE `pos_footer_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8179:ALTER TABLE `pos_github_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8185:ALTER TABLE `pos_google_drive_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8191:ALTER TABLE `pos_header_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8197:ALTER TABLE `pos_icon_paths`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8203:ALTER TABLE `pos_image_gallery_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8209:ALTER TABLE `pos_interest_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8215:ALTER TABLE `pos_job_positions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8221:ALTER TABLE `pos_language_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8227:ALTER TABLE `pos_live_link_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8233:ALTER TABLE `pos_portfolio_settings`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8239:ALTER TABLE `pos_project_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8245:ALTER TABLE `pos_project_section_descriptions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8251:ALTER TABLE `pos_project_section_images`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8257:ALTER TABLE `pos_setting_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8263:ALTER TABLE `pos_skill_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8269:ALTER TABLE `pos_social_media_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8275:ALTER TABLE `sessions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8283:ALTER TABLE `tbl_admin`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8289:ALTER TABLE `tbl_admin_user_roles`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8297:ALTER TABLE `tbl_categories`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8303:ALTER TABLE `tbl_categories_lang`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8309:ALTER TABLE `tbl_cities`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8315:ALTER TABLE `tbl_countries`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8321:ALTER TABLE `tbl_departments`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8327:ALTER TABLE `tbl_designations`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8333:ALTER TABLE `tbl_employees`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8340:ALTER TABLE `tbl_languages`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8346:ALTER TABLE `tbl_modules`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8353:ALTER TABLE `tbl_module_categories`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8359:ALTER TABLE `tbl_roles`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8365:ALTER TABLE `tbl_role_privileges`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8373:ALTER TABLE `users`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8384:ALTER TABLE `audits`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8390:ALTER TABLE `migrations`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8396:ALTER TABLE `pos_builder_settings`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8402:ALTER TABLE `pos_chatgpt_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8408:ALTER TABLE `pos_document_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8414:ALTER TABLE `pos_download_histories`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8420:ALTER TABLE `pos_education_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8426:ALTER TABLE `pos_experience_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8432:ALTER TABLE `pos_experience_section_descriptions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8438:ALTER TABLE `pos_footer_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8444:ALTER TABLE `pos_github_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8450:ALTER TABLE `pos_google_drive_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8456:ALTER TABLE `pos_header_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8462:ALTER TABLE `pos_icon_paths`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8468:ALTER TABLE `pos_image_gallery_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8474:ALTER TABLE `pos_interest_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8480:ALTER TABLE `pos_job_positions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8486:ALTER TABLE `pos_language_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8492:ALTER TABLE `pos_live_link_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8498:ALTER TABLE `pos_portfolio_settings`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8504:ALTER TABLE `pos_project_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8510:ALTER TABLE `pos_project_section_descriptions`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8516:ALTER TABLE `pos_project_section_images`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8522:ALTER TABLE `pos_setting_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8528:ALTER TABLE `pos_skill_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8534:ALTER TABLE `pos_social_media_sections`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8540:ALTER TABLE `tbl_admin`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8546:ALTER TABLE `tbl_admin_user_roles`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8552:ALTER TABLE `tbl_categories`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8558:ALTER TABLE `tbl_categories_lang`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8564:ALTER TABLE `tbl_cities`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8570:ALTER TABLE `tbl_countries`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8576:ALTER TABLE `tbl_departments`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8582:ALTER TABLE `tbl_designations`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8588:ALTER TABLE `tbl_employees`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8594:ALTER TABLE `tbl_languages`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8600:ALTER TABLE `tbl_modules`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8606:ALTER TABLE `tbl_module_categories`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8612:ALTER TABLE `tbl_roles`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8618:ALTER TABLE `tbl_role_privileges`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8624:ALTER TABLE `users`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8634:ALTER TABLE `tbl_admin_user_roles`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8641:ALTER TABLE `tbl_modules`
+E:\softlinks\DOD\pos_kashiftech\my_db\pos_portal.sql:8647:ALTER TABLE `tbl_role_privileges`
